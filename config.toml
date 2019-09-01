@@ -1,0 +1,4 @@
+baseURL = "https://ryuckel.github.io/"
+languageCode = "ja"
+title = "RPG Blog"
+theme = "cupper-hugo-theme"
